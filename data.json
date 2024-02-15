@@ -1,0 +1,61 @@
+{
+    "projects" : [
+        {
+            "id" : 1,
+            "name" : "16m² Room",
+            "place": "Beni khalled",
+            "date": "2023",
+            "area": "16m²",
+            "client": "2 Working girls",
+            "status": "Delivered",
+            "text" : "We have arranged this 16m² room for two girls as follows:* each has its own area for sleeping, working, grooming and additional storage space the second image shows that we chose the space above the bed for maximum storage",
+            "images" : [
+                "project1/1.jpg",
+                "project1/2.jpg",
+                "project1/3.jpg",
+                "project1/4.jpg",
+                "project1/5.jpg"
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "11m² Room",
+            "place": "Beni khalled",
+            "date": "2023",
+            "area": "11m²",
+            "client": "young girl",
+            "status": "delivered",
+            "text" : "the current layout or, the arrangement of furniture is not balanced which causes poor circulation. We have established comfort, functionality,beauty and harmony in this 11m² room for a girl who loves cats.",
+            "images" : [
+                "project2/1.jpg",
+                "project2/2.jpg",
+                "project2/3.jpg",
+                "project2/4.jpg",
+                "project2/5.jpg",
+                "project2/6.jpg"
+            ]
+        },{
+            "id" : 3,
+            "name" : "senia",
+            "place": "Beni khalled",
+            "date": "2023",
+            "area": "1680m²",
+            "client": "Habib C",
+            "status": "delivered",
+            "text" : "the current layout or, the arrangement of furniture is not balanced which causes poor circulation. We have established comfort, functionality,beauty and harmony in this 11m² room for a girl who loves cats.",
+            "images" : [
+                "project3/1.jpg",
+                "project3/2.jpg"
+                
+            ]
+        }
+    ],
+    "press" : [
+        {
+            "id" : 1 ,
+            "title" : "The professional training day",
+            "image" : "press/1.jpg",
+            "link" : "https://www.aldiplomasy.com/133482/?fbclid=IwAR2OEVuOgi5USmvgCPHuc8LhjFC1fNJuAxK6Ht6-E4yE_8Jqynb3CYWlFJE"
+        }
+    ]
+}

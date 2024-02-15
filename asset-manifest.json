@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.519eaae0.css",
+    "main.js": "/static/js/main.6abf071c.js",
+    "static/media/3drendring.jpg": "/static/media/3drendring.27f945a84738cab71de9.jpg",
+    "static/media/hero.jpg": "/static/media/hero.d3cb11acaec063f6df12.jpg",
+    "static/media/personalShopping.jpg": "/static/media/personalShopping.34c47d250758c2fdba93.jpg",
+    "static/media/archi.jpg": "/static/media/archi.842f7178009001bfa89d.jpg",
+    "index.html": "/index.html",
+    "main.519eaae0.css.map": "/static/css/main.519eaae0.css.map",
+    "main.6abf071c.js.map": "/static/js/main.6abf071c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519eaae0.css",
+    "static/js/main.6abf071c.js"
+  ]
+}
